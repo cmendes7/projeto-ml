@@ -3,7 +3,7 @@ name = "projeto-ml"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "deyvid102",email = "62156167+deyvid102@users.noreply.github.com"}
+    {name = "cmendes7",email = "cauamendesalves@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
